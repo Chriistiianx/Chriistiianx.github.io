@@ -384,11 +384,15 @@ span{
 }
 
 .html {
-    width: 80%;
+    width: 50%;
 }
 
 .python {
     width: 85%;
+}
+
+.lua {
+    width: 70%;
 }
 
 .certifications h1 {
